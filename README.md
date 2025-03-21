@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 - 🔹 **Frontend:** Vite + TypeScript + Tailwind CSS  
-- 🔹 **Backend & Database:** Supabase  
+- 🔹 **Backend & Database:** Firebase  
 - 🔹 **Package Management:** Node.js (npm)  
 - 🔹 **Configuration & Build:** PostCSS, ESLint  
 
